@@ -1,1 +1,3 @@
+Boston_housing Project
 
+In this project, I apply basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. I first explore the data to obtain important features and descriptive statistics about the dataset. Next, I split the data into testing and training subsets, and determine a suitable performance metric for this problem. I then analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This enables me to pick the optimal model that best generalizes for unseen data. Finally, I test this optimal model on a new sample and compare the predicted selling price to your statistics.
